@@ -10,12 +10,12 @@ In this project, we simulate an autonomous vehicle's path following capabilities
 
  ### Vehicle Kinematic Model
 <p align="center">
-  <img src="images/vehicle_kinematic_model.png" width="500">
+  <img src="images/vehicle_kinematic_model.png" width="300">
 </p>
 
 ### Lateral Vehicle Dynamics
 <p align="center">
-  <img src="images/vehicle_dynamics.png" width="500">
+  <img src="images/vehicle_dynamics.png" width="300">
 </p>
 
 ## Key Components:
@@ -54,12 +54,12 @@ In this project, we simulate an autonomous vehicle's path following capabilities
 
 ### Trajectory Tracking using PID Controller
 <p align="center">
-  <img src="images/PID_result.png" width="500">
+  <img src="images/PID_result.png" width="300">
 </p>
 
 ### Block Diagram for the Path Tracking using PID Control
 <p align="center">
-  <img src="images/PID_block_diagram.png" width="500">
+  <img src="images/PID_block_diagram.png" width="600">
 </p>
 
 
@@ -69,12 +69,12 @@ In this project, we simulate an autonomous vehicle's path following capabilities
 
 ### Lateral Positions of Reference and MPC Tracking
 <p align="center">
-  <img src="images/MPC_tracking_lateral.png" width="500">
+  <img src="images/MPC_tracking_lateral.png" width="400">
 </p>
 
 ### Yaw Angles of Reference and MPC
 <p align="center">
-  <img src="images/MPC_yaw_angle_result.png" width="500">
+  <img src="images/MPC_yaw_angle_result.png" width="400">
 </p>
 
 ### Comparative Analysis:
